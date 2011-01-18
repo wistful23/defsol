@@ -1,0 +1,19 @@
+4 3
+CD < AB
+D = C
+B > A
+
+4 2
+CD < AB
+D = C
+
+26 2
+Z > B
+C < Z
+
+26 5
+EGFH = BACD
+ILKJ = MOPN
+STQR = WXUV
+ABYC > MOZP
+EMPTY = BRAIN
